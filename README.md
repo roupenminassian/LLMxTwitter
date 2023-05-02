@@ -1,6 +1,6 @@
-# LLMxTwitter
-
 ![Screenshot 2023-05-02 at 4 05 00 pm](https://user-images.githubusercontent.com/61346944/235591160-85d17b4b-4938-49f7-8e87-b6a38af588d2.png)
+
+# LLMxTwitter
 
 ## Introduction
 
