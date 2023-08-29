@@ -1,7 +1,5 @@
 ## Model Training:
 
-[Model_Training_and_Validation.ipynb](https://github.com/roupenminassian/LLMxTwitter/blob/main/Model%20Training//Model_Training_and_Validation.ipynb)
-
 After data preparation, the core of this project lies in training a machine learning model that can accurately classify tweets as factual or misinformation. Below is an outline of the model training process.
 
 ### Model Architecture: Transformers Library
@@ -46,3 +44,5 @@ We use a pretrained model from Hugging Face's Transformers library, specifically
 - Transformers for model and tokenizer
 - Hugging Face's Trainer for training pipeline
 - Custom metric evaluation
+
+For a detailed walkthrough of the model training and validation, please refer to the following Jupyter Notebook: [Model Training and Validation](https://github.com/roupenminassian/LLMxTwitter/blob/main/Model%20Training//Model_Training_and_Validation.ipynb).
