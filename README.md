@@ -21,3 +21,10 @@ The inspiration for revisiting this complex topic was further kindled by recent 
 As the capabilities of large language models and machine-learning methods become increasingly sophisticated, there is a timely opportunity to re-examine the Twitter activity surrounding the Nagorno-Karabakh conflict. By leveraging the latest advancements in data science, this project aims to provide an updated, nuanced understanding of social media's role in modern geopolitical conflicts. Not only will this analysis serve academic interests, but it will also offer actionable insights for policy makers, social activists, and communities at large.
 
 This repository explores the use of Large Language Models (LLMs) on Twitter data. The methodology covers several techniques including data collection, data preprocessing, LLM training and inference. Further to this, there are references to model explainability to understand how these LLMs make predictions and the factors that contribute to its output. An interactive data visualisation has also been created to allow you to explore the data and gain a better understanding of the trends and patterns that have been identified.
+
+## Content
+
+1. [Data Preparation](https://github.com/roupenminassian/LLMxTwitter/tree/main/Data%20Preparation)
+2. [Model Training](https://github.com/roupenminassian/LLMxTwitter/tree/main/Model%20Training)
+3. [Model Explainability](https://github.com/roupenminassian/LLMxTwitter/tree/main/Model%20Explainability)
+4. [Data Visualisation](https://github.com/roupenminassian/LLMxTwitter/tree/main/Data%20Visualisation)
