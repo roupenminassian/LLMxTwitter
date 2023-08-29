@@ -2,7 +2,9 @@
 
 Understanding the complex dynamics of misinformation on social media platforms requires a robust and methodologically sound approach to data collection and preprocessing. In this project, we focus on two distinct datasets to achieve our objectives.
 
-### Dataset for Model Fine-Tuning: `[FineTuning_Dataset.ipynb](./Code/FineTuning_Dataset.ipynb)`
+### Dataset for Model Fine-Tuning:
+
+[FineTuning_Dataset.ipynb](https://github.com/roupenminassian/LLMxTwitter/blob/main/Data%20Preparation/FineTuning_Dataset.ipynb)`
 
 The first dataset serves as the foundation for training a machine learning model capable of discerning factual information from misinformation. This dataset comprises a balanced mix of factual and misleading tweets, articles, and other forms of text data.
 
