@@ -6,7 +6,7 @@ Understanding the 'why' behind model predictions is as crucial as the prediction
 
 We use SHAP, a game theory approach, to explain the output of any machine learning model. SHAP connects optimal credit allocation with local explanations, using the classic Shapley values from cooperative game theory and their related extensions.
 
-### Fine-Tuned Model: `roupenminassian/TwHIN-BERT-Misinformation-Classifier`
+### Fine-Tuned Model
 
 We apply the SHAP methodology on our fine-tuned model, `roupenminassian/TwHIN-BERT-Misinformation-Classifier`, to gain insights into its behavior on the classification dataset.
 
