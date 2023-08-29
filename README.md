@@ -24,4 +24,4 @@ This repository explores the use of Large Language Models (LLMs) on Twitter data
 
 ## Contents
 
-1. [Data Preprocessing](https://github.com/roupenminassian/LLMxTwitter/blob/Data Preparation/Data_Preprocessing.ipynb)
+1. [Data Preprocessing](https://github.com/roupenminassian/LLMxTwitter/blob/main/Data_Preprocessing.ipynb)
