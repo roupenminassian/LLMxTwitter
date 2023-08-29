@@ -1,4 +1,4 @@
-## Model Training:
+## Model Training
 
 After data preparation, the core of this project lies in training a machine learning model that can accurately classify tweets as factual or misinformation. Below is an outline of the model training process.
 
