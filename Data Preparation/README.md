@@ -17,7 +17,7 @@ The first dataset serves as the foundation for training a machine learning model
   - Tokenization: Breaking down text into individual words or phrases.
   - Labeling: Tagging each data point as 'Factual' or 'Misinformation'.
 
-### Dataset for Model Application: `[Classification_Dataset.ipynb](https://github.com/roupenminassian/LLMxTwitter/blob/Data Preparation/Classification_Dataset.ipynb)`
+### Dataset for Model Application: `[Classification_Dataset.ipynb](https://github.com/roupenminassian/LLMxTwitter/blob/main/Data Preparation/Classification_Dataset.ipynb)`
 
 The second dataset consists of raw tweets collected during the period of the Nagorno-Karabakh conflict. The purpose of this dataset is for the model to apply its learned knowledge in classifying tweets as either factual or misinformation.
 
